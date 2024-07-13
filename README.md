@@ -2,7 +2,7 @@
 
 A responsive landing page for a bike store, showcasing main products, services, and popular bike model comparisons. It also includes a form for bike orders.
 
-#[DEMO LINK](https://ANTI-bogdan.github.io/layout_landing-page/)
+#[DEMO LINK](https://antypenko-bohdan.github.io/My_bike/)
 
 ## Technologies Used
 
