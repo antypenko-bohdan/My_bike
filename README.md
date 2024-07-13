@@ -24,10 +24,6 @@ A responsive landing page for a bike store, showcasing main products, services, 
 - SEO optimization
 - Improved accessibility
 
-
-## Google Lighthouse Report
-![98,93,100,91](https://ibb.co/g7w6ms8)
-
 ## Reflections
 
 This project was aimed at enhancing skills in: HTML5 and CSS3, Sass (SCSS), BEM methodology, JavaScript, Responsive and adaptive layout, Element positioning using flexbox, grid, and media queries.
